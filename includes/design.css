@@ -1,0 +1,120 @@
+a{
+	text-decoration: none;
+	line-height: 35px;
+}
+
+.container{
+	width: 550px;
+	font-size: 14px;
+	margin-top: 100px;
+	font-family: serif;
+}
+
+.cont{
+	font-family: serif;
+}
+
+#background{
+	background-color: #0099cc;
+	padding: 10px;
+	color: white;
+}
+
+#nav{
+	font-family: serif;
+	padding-left: 80px;
+}
+
+#new_account{
+	text-align: center;
+}
+
+#header{
+	text-align: center;
+}
+
+#data_fields{
+
+}
+
+#footer{
+	text-align: center;
+}
+
+#header_strip{
+	padding: 20px;
+	font-family: serif;
+}
+
+#jhpcrs{
+	background-color: #0099cc;
+	padding: 10px;
+	color: white;
+}
+
+#a_age{
+	background-color: #e6e6ff;
+	padding: 10px;
+	margin: 10px;
+}
+
+#b_age{
+	background-color: #ffffe6;
+	padding: 10px;
+	margin: 10px;
+}
+
+#c_age{
+	background-color: #e6ffe6;
+	padding: 10px;
+	margin: 10px;
+}
+
+#d_age{
+	background-color: #e6f7ff;
+	padding: 10px;
+	margin: 10px;
+}
+
+#e_age{
+	background-color: #fff5e6;
+	padding: 10px;
+	margin: 10px;
+}
+
+#f_age{
+	background-color: #ffe6f2;
+	padding: 10px;
+	margin: 10px;
+}
+
+#sbutton{
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+#nav_main{
+	padding-left: 80px;
+}
+
+.btn{
+	margin-right: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#byCluster{
+	display: none;
+}
+
+#byAge{
+	display: none;
+}
+
+.success{
+	color: green;
+}
+
+.error{
+	color: red;
+}
